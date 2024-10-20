@@ -6,11 +6,11 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="35" Margin="189,248,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="227" FontSize="12"/>
-        <TextBlock HorizontalAlignment="Left" Margin="226,176,0,0" TextWrapping="Wrap" Text="Enter Name:" VerticalAlignment="Top" Height="42" Width="107" FontSize="18"/>
+        <TextBlock HorizontalAlignment="Left" Margin="226,176,0,0" TextWrapping="Wrap" Text="Enter a text:" VerticalAlignment="Top" Height="42" Width="107" FontSize="18"/>
         <Button Content="Далее" HorizontalAlignment="Left" Margin="276,344,0,0" VerticalAlignment="Top" Width="80" Height="28" FontSize="14" Background="Aqua" Click="Button_Click"/>
-        <TextBlock HorizontalAlignment="Left" Margin="142,257,0,0" TextWrapping="Wrap" Text="name:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="118,256,0,0" TextWrapping="Wrap" Text="text here:" VerticalAlignment="Top" Height="27" Width="71" FontSize="13"/>
 
-        <TextBlock HorizontalAlignment="Left" Margin="50,300,0,0" TextWrapping="Wrap" Text="Text Size:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="40,300,0,0" TextWrapping="Wrap" Text="размер текста:" VerticalAlignment="Top"/>
         <Slider Minimum="10" Maximum="40" Value="12" Width="200" HorizontalAlignment="Left" Margin="120,300,0,0" ValueChanged="Slider_ValueChanged"/>
     </Grid>
 </Window>

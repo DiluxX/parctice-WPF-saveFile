@@ -12,3 +12,17 @@ D:\gostev\ещкере\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource
 D:\gostev\ещкере\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
 D:\gostev\ещкере\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
 D:\gostev\ещкере\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+G:\githubGostev\workbench\parctice-WPF-saveFile\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+G:\githubGostev\workbench\parctice-WPF-saveFile\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+G:\githubGostev\workbench\parctice-WPF-saveFile\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+G:\githubGostev\workbench\parctice-WPF-saveFile\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+G:\githubGostev\workbench\parctice-WPF-saveFile\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+G:\githubGostev\workbench\parctice-WPF-saveFile\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+G:\githubGostev\workbench\parctice-WPF-saveFile\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+G:\githubGostev\workbench\parctice-WPF-saveFile\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+G:\githubGostev\workbench\parctice-WPF-saveFile\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+G:\githubGostev\workbench\parctice-WPF-saveFile\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+G:\githubGostev\workbench\parctice-WPF-saveFile\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+G:\githubGostev\workbench\parctice-WPF-saveFile\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+G:\githubGostev\workbench\parctice-WPF-saveFile\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+G:\githubGostev\workbench\parctice-WPF-saveFile\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
